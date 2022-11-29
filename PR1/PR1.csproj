@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DecimalMath">
+      <HintPath>bin\Debug\net5.0\DecimalMath.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
