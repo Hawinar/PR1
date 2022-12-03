@@ -14,4 +14,3 @@ C:\Users\Admin\source\repos\PR1\PR1\obj\Debug\net5.0\refint\PR1.dll
 C:\Users\Admin\source\repos\PR1\PR1\obj\Debug\net5.0\PR1.pdb
 C:\Users\Admin\source\repos\PR1\PR1\obj\Debug\net5.0\PR1.genruntimeconfig.cache
 C:\Users\Admin\source\repos\PR1\PR1\obj\Debug\net5.0\ref\PR1.dll
-C:\Users\Admin\source\repos\PR1\PR1\obj\Debug\net5.0\PR1.csproj.CopyComplete

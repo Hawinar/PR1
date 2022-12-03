@@ -7,19 +7,8 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "PR1/1.0.0": {
-        "dependencies": {
-          "DecimalMath": "1.0.0.0"
-        },
         "runtime": {
           "PR1.dll": {}
-        }
-      },
-      "DecimalMath/1.0.0.0": {
-        "runtime": {
-          "DecimalMath.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       }
     }
@@ -27,11 +16,6 @@
   "libraries": {
     "PR1/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "DecimalMath/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
